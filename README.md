@@ -1,6 +1,6 @@
 ## 🌐 Live Demo
 
-**Try the app:** [https://fathimakhanam.github.io/zentrack/]
+**Try the app:** [https://fathimakhanam.github.io/React-ZenTrack/]
 
 > Click the link above to see the live application in action!
 
